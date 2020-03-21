@@ -1,0 +1,12 @@
+fullName: Ademola Adeagbo
+email: demmybite@gmail.com
+slackUsername: demmybite0608
+tracks: Frontend
+        Backend
+        Coding
+
+courses: Python
+         Node.js
+         Html-Css-Javascript
+         C#
+         
