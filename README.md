@@ -1,6 +1,6 @@
 # GIT 1 Task
 
-This task is aimed at making sure you are ready to start using GitHub. By now you should have a Github account, and using that GitHub account, you are to:
+This task is aimed at making sure you are ready to start using GitHub. By now you should have a Github account and using that GitHub account, you are to:
 
 ```bash
 1. Create a repository, your repository name should be your slack username with no spaces.
